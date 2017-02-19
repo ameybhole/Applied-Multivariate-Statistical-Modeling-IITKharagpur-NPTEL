@@ -1,6 +1,6 @@
-#Applied-Multivariate-Statistical-Modeling-IITMadras-NPTEL
+#Applied-Multivariate-Statistical-Modeling-IITKharagpur-NPTEL
 
-This repo is created for all the work done my me as a part of Applied Multivariate Statistical Modeling by IIT Madras on Online courses Nptel. 
+This repo is created for all the work done my me as a part of Applied Multivariate Statistical Modeling by IIT Kharagpur on Online courses Nptel. 
 
 #Course Schedule 
 
